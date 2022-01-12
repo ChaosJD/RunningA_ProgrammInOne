@@ -1,4 +1,4 @@
-# RunningA_ProgrammInOne
+# RunningA_ProgrammInOneLine
 
 ## Call the commands
 ```
